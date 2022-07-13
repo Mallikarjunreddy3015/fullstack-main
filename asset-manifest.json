@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/fullstack/static/css/main.7104fd44.css",
-    "main.js": "/fullstack/static/js/main.2ffc730f.js",
-    "index.html": "/fullstack/index.html",
-    "main.7104fd44.css.map": "/fullstack/static/css/main.7104fd44.css.map",
-    "main.2ffc730f.js.map": "/fullstack/static/js/main.2ffc730f.js.map"
+    "main.css": "/static/css/main.7104fd44.css",
+    "main.js": "/static/js/main.2ffc730f.js",
+    "index.html": "/index.html",
+    "main.7104fd44.css.map": "/static/css/main.7104fd44.css.map",
+    "main.2ffc730f.js.map": "/static/js/main.2ffc730f.js.map"
   },
   "entrypoints": [
     "static/css/main.7104fd44.css",
