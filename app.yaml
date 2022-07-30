@@ -10,29 +10,3 @@ handlers:
 - url: /.*
   static_files: build/index.html
   upload: build/index.html
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-steps:
-- name: 'gcr.io/cloud-builders/npm'
-  args: ['install']
-
-- name: 'gcr.io/cloud-builders/npm'
-  args: ['run', 'build']
-
-- name: 'gcr.io/cloud-builders/npm'
-  args: ['run', 'start']
